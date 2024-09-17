@@ -64,8 +64,6 @@ function Contact() {
                         <textarea name="message" id="message" placeholder="Type your message here" required className="text-field resize-y min-h-32 max-h-80 reveal-up"></textarea>
                     </div>
 
-                    <input type="hidden" name="_autoresponse" value="Thanks for sending mail. We will contact you as soon as possible."></input>
-
                     <button type="submit" className="btn btn-primary [&]:max-w-full w-full justify-center reveal-up">Submit</button>
                 </form>
             </div>
