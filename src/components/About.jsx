@@ -16,9 +16,10 @@ function About() {
         <div className="container">
           <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
             <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-              Welcome! I&apos;m Ashfaque Hossain Abir, a professional web developer with a knack for crafting 
-              visually stunning and highly functional websites. Combining creativity and technical expertise. 
-              I transform your vision into digital masterpiece that excels in both appearance and performance.
+              Hello! I'm Ashfaque Hossain Abir. I am passionate about coding, solving problems, and building 
+              innovative projects. With a love for continuous learning and exploration, I enjoy reading books 
+              and engaging in various exciting activities. I believe that knowledge has no limits, and 
+              constantly seeking opportunities to expand my skills and contribute to meaningful projects.
             </p>
 
             <div className="flex flex-wrap items-center gap-4 md:gap-7 ">
