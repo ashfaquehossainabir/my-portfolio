@@ -46,7 +46,7 @@ function Contact() {
                     </div>
                 </div>
 
-                <form action="https://formsubmit.co/ashfaquehossain300@gmail.com" method="POST" className="xl:pl-10 2xl:pl-20">
+                <form action="https://formspree.io/f/xyzgaqzv" method="POST" className="xl:pl-10 2xl:pl-20">
                     <div className="md:grid md:items-center md:grid-cols-2 md:gap-2">
                         <div className="mb-4">
                             <label htmlFor="name" className="label reveal-up">Name</label>
